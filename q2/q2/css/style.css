@@ -16,3 +16,11 @@
   padding: 10px;
   background: #d2b48c;
 }
+
+.flex-item:first-of-type {
+  margin-left: 0;
+}
+
+.flex-item:last-of-type {
+  margin-right: 0;
+}
